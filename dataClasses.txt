@@ -1,0 +1,18 @@
+001_abdomen 336
+002_breast tissue 273
+003_chest_XRay 319
+004_CSpine 190
+005_esophagus 300
+006_hand_Xray 367
+007_head_MRI 338
+008_kidney_tissue 271
+009_knee 349
+010_liver 350
+011_lung 300
+012_malaria 273
+013_pancreas 240
+014_pelvis 262
+015_retina 300
+016_Shoulder 337
+017_skin_cancer 300
+018_sperm 297
